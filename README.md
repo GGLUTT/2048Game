@@ -2,7 +2,7 @@
 
 A modern implementation of the classic 2048 puzzle game, built with HTML, CSS, and JavaScript.
 
-![2048 Game Screenshot](https://raw.githubusercontent.com/GGLUTT/2048Game/main/screenshots/game-screenshot.png)
+![2048 Game Screenshot](https://i.imgur.com/zfe7eY1.png)
 
 ## Live Preview
 
