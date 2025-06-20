@@ -2,7 +2,7 @@
 
 A modern implementation of the classic 2048 puzzle game, built with HTML, CSS, and JavaScript.
 
-![2048 Game Screenshot](https://i.imgur.com/zfe7eY1.png)
+![2048 Game Screenshot](https://i.imgur.com/BcbRH0X.png)
 
 ## Live Preview
 
